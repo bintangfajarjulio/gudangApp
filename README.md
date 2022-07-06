@@ -1,5 +1,5 @@
 # gudangApp
-Latihan bahasa pemrograman Java untuk membuat aksesn dan CRUD inventory gudang
+Latihan bahasa pemrograman Java untuk membuat akses dan fitur CRUD dari inventory gudang
 ## Cara Penggunaan
 1. Import folder project ke IDE Java
 2. Run program melalui Class Driver
